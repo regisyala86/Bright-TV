@@ -1,8 +1,8 @@
 1. Project Overview
 
-The Bright TV Viewership Analysis project focuses on analyzing audience viewing behavior using structured datasets in a Databricks SQL environment. The goal is to transform raw viewership and demographic data into meaningful insights that can support business decisions around content strategy, scheduling, and audience engagement.
+The Bright TV Viewership Analysis project focuses on analyzing audience viewing behavior using structured datasets in a Databricks SQL environment. The goal is to transform raw viewership and User Profile data into meaningful insights that can support business decisions around content strategy, scheduling, and audience engagement.
 
-The project combines viewing activity data with user demographic information to provide a comprehensive understanding of who is watching, what they are watching, and when they are most active. The analysis emphasizes time-based trends, audience segmentation, and channel performance.
+The project combines viewing activity data with user profile information to provide a comprehensive understanding of who is watching, what they are watching, and when they are most active. The analysis emphasizes time-based trends, audience segmentation, and channel performance.
 
 2. Objectives
 
